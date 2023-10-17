@@ -1,3 +1,16 @@
 # FSRS for Android (Kotlin)
 
-Open project in Android Studio. you can run the tests inside java/chat.sdk.android_fsrs or use the main FSRS.kt class. 
+Open project in Android Studio. 
+
+## Main Class
+
+```
+java/chat.sdk.android_fsrs/FSRS.kt
+```
+
+## Tests
+
+```
+// androidTest
+java/chat.sdk.android_fsrs/FSRS.kt
+```
